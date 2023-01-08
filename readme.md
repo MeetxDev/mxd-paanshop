@@ -1,3 +1,13 @@
+Preview : [Preview - YT](https://youtu.be/RAd8tEL8ocM)
+
+Discord : [Discord](https://discord.gg/AquwCR3CQb)
+
+Features :
+
+1) Easy to Config
+2) Easy to add new items
+3) Consumable
+
 Dependncies
 
 1) QBCore

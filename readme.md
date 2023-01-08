@@ -2,6 +2,8 @@ Preview : [Preview - YT](https://youtu.be/RAd8tEL8ocM)
 
 Discord : [Discord](https://discord.gg/AquwCR3CQb)
 
+CFX : [CFX](https://forum.cfx.re/t/free-qb-meetxdev-a-paanshop-a-job-for-an-indian-dish/4990912)
+
 Features :
 
 1) Easy to Config

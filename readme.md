@@ -1,10 +1,10 @@
 Dependncies
 
-QBCore
-PolyZone
-qb-target
-dpemotes
-[MLO (optional can change coords in config)](https://www.gta5-mods.com/maps/mlo-legion-weed-clinic)
+1) QBCore
+2) PolyZone
+3) qb-target
+4) dpemotes
+5) [MLO (optional can change coords in config)](https://www.gta5-mods.com/maps/mlo-legion-weed-clinic)
 
 
 Add this to qb-core shared items file

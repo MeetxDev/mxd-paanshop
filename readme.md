@@ -2,7 +2,7 @@ Preview : [Preview - YT](https://youtu.be/RAd8tEL8ocM)
 
 Discord : [Discord](https://discord.gg/AquwCR3CQb)
 
-[Like my Work](https://ko-fi.com/meetxdev)
+ko-fi : [Like my Work](https://ko-fi.com/meetxdev)
 
 
 Features :

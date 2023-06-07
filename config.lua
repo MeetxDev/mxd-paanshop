@@ -1,3 +1,5 @@
+print("^1mxd^7-^1paanshop ^7- ^2Paanshop Script by ^3MeetxDev^7")
+
 Config = {}
 
 Config.Locations = {
